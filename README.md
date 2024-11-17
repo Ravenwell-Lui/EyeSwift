@@ -54,3 +54,6 @@ Contributions are welcome! Fork this repository and submit pull requests for imp
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Experience EyeSwift and feel the power of real-time object detection at your fingertips!
+
+# Reference
+https://developer.apple.com/documentation/vision/recognizing-objects-in-live-capture
